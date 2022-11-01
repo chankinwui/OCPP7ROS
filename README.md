@@ -8,4 +8,8 @@ I think the day like in the "Big Hero 6" and "RoboCop" is not too far away from 
 The de facto standard  protocol for EV charging is OCPP (Open Charge Point Protocol), while almost all robots support ROS (Robot Operating System). 
 Unfortunately they cannot talk to each other right now.
 
-In this project, we are going to implement a gateway between 
+In this project, we are going to implement a gateway between OCPP (version 2.0.1) and ROS (version 2). Simulators (EV,AC/DC charger,robot)following the protocols will be implemented too. Some basic knowledge of each technology is assumed.
+![1667316115855](https://user-images.githubusercontent.com/3295412/199270033-2c4082f4-c211-46e0-9ba8-b9f0a565e3c3.png)
+
+
+
